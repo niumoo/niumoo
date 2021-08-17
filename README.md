@@ -12,4 +12,4 @@ CSDN：[https://blog.csdn.net/u013735734](https://blog.csdn.net/u013735734)，�
 
 公众号：程序猿阿朗，分享编程点点滴滴。
 
-<img width="500px" src="https://user-images.githubusercontent.com/26371673/129650527-af626ed7-fbef-4b46-b332-29155144243a.png">
+<img width="400px" src="https://user-images.githubusercontent.com/26371673/129650527-af626ed7-fbef-4b46-b332-29155144243a.png">
