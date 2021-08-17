@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-![](https://github-readme-stats.vercel.app/api?username=niumoo&show_icons=true&theme=Gradient)
+<img src="https://github-readme-stats.vercel.app/api?username=niumoo&show_icons=true&theme=Gradient" width="450px">
 
 <!--
 [我的网站](https://www.wdbyte.com/)，[知乎](https://www.zhihu.com/people/bpdwn)，[CSDN](https://blog.csdn.net/u013735734)，[掘金](https://juejin.im/user/5a62d481f265da3e2a0dac9b)
