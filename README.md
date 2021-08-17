@@ -1,7 +1,7 @@
 ### Hi there 👋 
-
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=niumoo&show_icons=true&theme=Gradient)
-
+-->
 ## 🏃 我的痕迹
 
 1. 我的网站：[https://www.wdbyte.com/](https://www.wdbyte.com/)
