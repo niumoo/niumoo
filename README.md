@@ -9,7 +9,7 @@
 未读代码：[https://www.wdbyte.com/](https://www.wdbyte.com/)  
 Debug站：[https://debug.group/](https://debug.group/)  
 必应壁纸：[https://bing.wdbyte.com](https://bing.wdbyte.com)  
-掘   金：[https://juejin.im/](https://juejin.im/user/5a62d481f265da3e2a0dac9b)  
+掘金主页：[https://juejin.im/](https://juejin.im/user/5a62d481f265da3e2a0dac9b)  
 
 公众号：程序猿阿朗，分享编程点点滴滴。
 
