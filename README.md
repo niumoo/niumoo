@@ -10,7 +10,7 @@
 Debug站：[https://debug.group](https://debug.group/)  
 必应壁纸：[https://bing.wdbyte.com](https://bing.wdbyte.com)  
 掘金主页：[https://juejin.im](https://juejin.im/user/5a62d481f265da3e2a0dac9b)  
-S F思否：[https://segmentfault.com/u/niumoo](https://segmentfault.com/u/niumoo)
+S F 思否：[https://segmentfault.com/u/niumoo](https://segmentfault.com/u/niumoo)
 
 公众号：程序猿阿朗，分享编程点点滴滴。
 
