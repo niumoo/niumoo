@@ -9,7 +9,7 @@
 程序猿阿郎：[https://www.wdbyte.com](https://www.wdbyte.com/)  
 工具站：[https://debug.group](https://debug.group/)  
 必应壁纸：[https://bing.wdbyte.com](https://bing.wdbyte.com)  
-Github 图床：[https://pic.debug.group)  
+Github 图床：[https://pic.debug.group](https://pic.debug.group)   
 掘金主页：[https://juejin.im](https://juejin.im/user/5a62d481f265da3e2a0dac9b)  
 
 
