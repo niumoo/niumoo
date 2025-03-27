@@ -1,12 +1,6 @@
 ### Hi there 👋 
 
-<img src="https://github-readme-stats.vercel.app/api?username=niumoo&show_icons=true&theme=Gradient" width="450px">
-
-<!--
-[我的网站](https://www.wdbyte.com/)，[掘金](https://juejin.im/user/5a62d481f265da3e2a0dac9b)
--->
-
-程序猿阿郎：[https://www.wdbyte.com](https://www.wdbyte.com/)  
+程序猿阿朗：[https://www.wdbyte.com](https://www.wdbyte.com/)  
 工具站：[https://debug.group](https://debug.group/)  
 必应壁纸：[https://bing.wdbyte.com](https://bing.wdbyte.com)  
 Github 图床：[https://pic.debug.group](https://pic.debug.group)   
